@@ -17,3 +17,19 @@ flat though, so I'll need to spend some time working on the design.
 ![My new home](new_home.png)
 Around back, I've been growing some food and building materials.
 ![Farms](farms.png)
+
+## Day 18
+Found this ravine a few days ago. I mined out a lot of the iron and got suited up.
+Now to find some diamonds.
+![Ravine](ravine.png)
+And then, while mining some coal, I found 6 diamonds, enough for a diamond pickaxe.
+![Diamonds](diamonds.png)
+
+## Day 19
+I grabbed a shield and decided to go back and explore the mineshaft to try and find
+a saddle or whatever other loot there might be.
+![Mineshaft](mineshaft_2.png)
+No saddle in this chest, but I did get a Flame enchantment.
+![Flame enchant](flame_enchant.png)
+Just fell in the ravine. That could have gone much worse...
+![Near death](near_death.png)
