@@ -33,3 +33,12 @@ No saddle in this chest, but I did get a Flame enchantment.
 ![Flame enchant](flame_enchant.png)
 Just fell in the ravine. That could have gone much worse...
 ![Near death](near_death.png)
+
+## Day 30
+I finally made it to the nether and spent the last few days looking for a fortress with
+no luck. I think maybe I'll just go back to working on my house.
+![Nether](nether.png)
+
+## Day 31
+Finished up my house.
+![Finished house](finished_house.png)
