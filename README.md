@@ -61,3 +61,7 @@ I also set up a sugarcane farm which has been running for a couple days now. It 
 observers and pistons to push sugarcane into a water stream which feeds into a hopper.
 The efficiency isn't great but it's automatic.
 ![Sugarcane](sugarcane_farm.png)
+
+## Day 50
+The fortress is coming along nicely. I'm really enjoying the new basalt blocks.
+![Fortress](fortress.png)
