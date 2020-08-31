@@ -42,3 +42,22 @@ no luck. I think maybe I'll just go back to working on my house.
 ## Day 31
 Finished up my house.
 ![Finished house](finished_house.png)
+
+## Day 38
+After a couple hours exploring the nether I finally found a nether fortress. Still no saddles
+found in the chests. I'll come back some other time to get blaze rods. I forgot to take
+a picture for the log. I'll get one next time I go back.
+
+## Day 42
+Started building the bridge to the fortress. Hopefully will be able to transform this
+cliff into something awesome.
+![Bridge](bridge.png)
+
+## Day 48
+Made some slight changes to the front of the house to make things line up better
+and make more space in the main room.
+![Home remodel](home_changes.png)
+I also set up a sugarcane farm which has been running for a couple days now. It uses
+observers and pistons to push sugarcane into a water stream which feeds into a hopper.
+The efficiency isn't great but it's automatic.
+![Sugarcane](sugarcane_farm.png)
