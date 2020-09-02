@@ -65,3 +65,16 @@ The efficiency isn't great but it's automatic.
 ## Day 50
 The fortress is coming along nicely. I'm really enjoying the new basalt blocks.
 ![Fortress](fortress.png)
+
+## Day 52
+I made some changes to the fortress towers and added edges to the bridge.
+![Fortress](fortress_2.png)
+
+## Day 75
+I've been busy on a few tasks. Most importantly, I have a villager breeder up and running.
+The farmers will automatically produce food and use it to have kids.
+![Breeder](villager_breeder.png)
+The children then run into a trough which pushes them with water into this... housing unit.
+![Prison](villager_prison.png)
+Also, I've got some new crops and livestock.
+![New crops](new_crops.png)
