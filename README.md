@@ -78,3 +78,12 @@ The children then run into a trough which pushes them with water into this... ho
 ![Prison](villager_prison.png)
 Also, I've got some new crops and livestock.
 ![New crops](new_crops.png)
+
+## Day 83
+Went back to that mineshaft and found lots of rails and iron.
+![Mineshaft](mineshaft_loot.png)
+
+## Day 98
+Made a melon farm. It makes lots of melons.
+![Melon farm](melon_farm_1.png)
+![Melon farm](melon_farm_2.png)
