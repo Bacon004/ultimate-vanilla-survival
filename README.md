@@ -87,3 +87,10 @@ Went back to that mineshaft and found lots of rails and iron.
 Made a melon farm. It makes lots of melons.
 ![Melon farm](melon_farm_1.png)
 ![Melon farm](melon_farm_2.png)
+
+## Day 102
+With the melon farm fully functional I was ready to setup a villager shop.
+The melons can be sold to the farmer for emeralds. The librarians sell enchanted books.
+![Villager shops](villager_shop.png)
+And most importantly...
+![Mending trade](villager_mending.png)
