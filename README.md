@@ -94,3 +94,43 @@ The melons can be sold to the farmer for emeralds. The librarians sell enchanted
 ![Villager shops](villager_shop.png)
 And most importantly...
 ![Mending trade](villager_mending.png)
+
+# Day 120
+I spent a lot of time grinding for good enchantment trades. So far I have Mending,
+Unbreaking III, Efficiency V, and a few others.
+![Villager shops](villager_shops.png)
+I also just finished an iron farm. I haven't actually tested it yet, as the villagers
+will need a day or so to fire up, so to speak.
+![Iron farm](iron_farm.png)
+
+## Day 121
+This thing.
+![Jockey](jockey.png)
+
+## Day 135
+I spent a lot of time exploring the four quadrants around my base but so far no
+deserts or jungles in sight.
+![Map](map.png)
+
+## Day 137
+Found enough netherite to upgrade my pickaxe.
+![Netherite pickaxe](netherite_pickaxe.png)
+
+## Day 156
+I upgraded my sugar cane farm, though honestly this one isn't much more productive
+than the one I built much earlier.
+![Sugar cane farm](sugarcane_farm_2.png)
+I now have fully automatic melon and sugar cane farms.
+![Auto farms](auto_farms.png)
+
+## Day 180
+I started construction on a warehouse. The basement wasn't cutting it anymore.
+![Warehouse](warehouse.png)
+
+## Day 191
+While out exploring I found an underwater nether portal.
+![Underwater nether portal](underwater_nether_portal.png)
+
+## Day 196
+Nearly 5000 blocks from home, I finally found a jungle.
+![Jungle](jungle.png)
