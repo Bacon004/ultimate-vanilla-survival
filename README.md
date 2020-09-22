@@ -134,3 +134,26 @@ While out exploring I found an underwater nether portal.
 ## Day 196
 Nearly 5000 blocks from home, I finally found a jungle.
 ![Jungle](jungle.png)
+
+## Day 225
+After a lot of preparation and enchanting, I finally was ready to go to the end.
+I beat the dragon without breaking much of a sweat. Hopefully I can get some elytra now.
+![End dragon victory](end_dragon_victory.png)
+
+#Day 254
+I get the feeling an enderman has been here.
+![Enderman](enderman.png)
+
+#Day 255
+I've been busy working on a new house since I beat the enderdragon, and I haven't taken
+too many screenshots of it in-development as I've been constantly remodeling portions
+of it. I plan to get some images soon to show off all the work I've done. For now,
+I need more wood.
+
+##Day 284
+It occurred to me that the whole point of taking progress pictures was kind of lost
+if I didn't actually take any progress pictures. That being said, here are some progress
+pictures!
+![New base 1](new_base_1.png)
+![New base 2](new_base_2.png)
+![New base 3](new_base_3.png)
